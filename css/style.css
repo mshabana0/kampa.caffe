@@ -18,7 +18,10 @@
 .logo-img{
     width: 94%;
     height: 70%;
+}.log-1{
+    color: #1EABE3;
 }
+
 .tittle-1{
     color: rgb(26, 18, 18);
     margin-top: 60px;
@@ -42,8 +45,8 @@
     text-shadow: none;
 
 }.edit-img2{
-    width: 150%;
-    height: 70%;
+    width: 116%;
+    height: 100%;
 }.banner-2{
     background-color: aquamarine;
 }.tittle-2{
